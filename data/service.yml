@@ -1,5 +1,5 @@
 enable : true
-heading : Our
+heading : My
 headingSpan : Services
 serviceItem :
   - icon : tf-globe

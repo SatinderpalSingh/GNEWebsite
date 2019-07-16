@@ -17,7 +17,7 @@ summaryLength = 10
 
  [[menu.main]]
     name = "Students"
-    URL = "students"
+    URL = "README.md"
     weight = 1
 
     [[menu.main]]
